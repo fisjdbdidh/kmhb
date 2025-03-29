@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 13 Mar 2025 16:15:18 at https://apa.baldeaiy.gouer.us/Eservice/HeathIssue/PrintedLicens?uuid=dd5d3a69-07c5-467f-8d56-30393de72e73 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://apa.baldeaiy.gouer.us/Eservice/HeathIssue/PrintedLicens?uuid=dd5d3a69-07c5-467f-8d56-30393de72e73* +*https://apa.baldeaiy.gouer.us/Eservice/HeathIssue/PrintedLicens?uuid=dd5d3a69-07c5-467f-8d56-30393de72e73*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://apa.baldeaiy.gouer.us/Eservice/HeathIssue/PrintedLicens?uuid=dd5d3a69-07c5-467f-8d56-30393de72e73 -O1 "C:\My Web Sites\my new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*https://apa.baldeaiy.gouer.us/Eservice/HeathIssue/PrintedLicens?uuid=dd5d3a69-07c5-467f-8d56-30393de72e73* +*https://apa.baldeaiy.gouer.us/Eservice/HeathIssue/PrintedLicens?uuid=dd5d3a69-07c5-467f-8d56-30393de72e73* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:15:31	Error: 	"Not Found" (404) at link https://apa.baldeaiy.gouer.us/images/cityBG.png (from https://apa.baldeaiy.gouer.us/static/app.min.css)
+16:15:31	Error: 	"Not Found" (404) at link https://apa.baldeaiy.gouer.us/images/ab-2.png (from https://apa.baldeaiy.gouer.us/static/app.min.css)
+16:15:31	Error: 	"Not Found" (404) at link https://apa.baldeaiy.gouer.us/images/bg.jpg (from https://apa.baldeaiy.gouer.us/static/app.min.css)
+16:15:31	Error: 	"Not Found" (404) at link https://apa.baldeaiy.gouer.us/images/hero-img-2.png (from https://apa.baldeaiy.gouer.us/static/app.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 45 links scanned, 40 files written (3418974 bytes overall) [1421543 bytes received at 109349 bytes/sec], 2843648 bytes transferred using HTTP compression in 37 files, ratio 28%, 15.0 requests per connection
+(4 errors, 0 warnings, 0 messages)

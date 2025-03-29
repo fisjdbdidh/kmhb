@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+apa.baldeaiy.gouer.us	TRUE	/	FALSE	1999999999	XSRF-TOKEN	eyJpdiI6IlVCTjJlYW0rOHhwZGJoRytHUG81eHc9PSIsInZhbHVlIjoiQStWWkJmTkg4Znh0QjdYeE52WjR5M0RpK2lMT1pVZzdQcDFScmtJVVVad0JqOXpjZkVkZm14VzVrOGEraXFBM0FJQU5mMTllWFhuVzVDMGo4c3RyT1V4YXBSeW1Qb0NGMVJjUU0wVmg3S3NXOUtuUUszeXZJS0sxOVZwL3lzTC8iLCJtYWMiOiI2MmNmMjYyYjc2MTdlNDIxYjFjOWYxMmFhMDIyZDEyMmMyMmY4NzRmMmI5MzdlOTY3NDE1YTVlZGYwNjhiMDYxIiwidGFnIjoiIn0%3D
+apa.baldeaiy.gouer.us	TRUE	/	FALSE	1999999999	bshhla8ihyygdy_session	Ey9Yt0ndvEjOeaXyhJ6LAxCBGYV1BOrDORyeI4Hm
+apa.baldeaiy.gouer.us	TRUE	/	FALSE	1999999999	samesite	lax
+
